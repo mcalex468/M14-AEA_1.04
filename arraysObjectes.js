@@ -68,8 +68,7 @@ function producte(nom, preu, quantitat) {
 }
 
 function activitat6() {
-    const nom = "Funda"; // Assignar correctament el nom com a cadena
-    const preu = 15;
+    const nom = "Funda"; 
     const quantitat = 2;
 
     const nouProducte = producte(nom, preu, quantitat);
